@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="fastjson2-2.0.23 (3)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/fastjson2-2.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fastjson-2.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-3.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lombok-1.18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-2.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

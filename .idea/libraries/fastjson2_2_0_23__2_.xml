@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="fastjson2-2.0.23 (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/java基础案例/lib/fastjson2-2.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/java基础案例/lib/fastjson-2.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/java基础案例/lib/slf4j-api-2.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
