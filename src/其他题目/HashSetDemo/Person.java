@@ -1,4 +1,4 @@
-package HashSetDemo;
+package 其他题目.HashSetDemo;
 
 import java.util.Objects;
 

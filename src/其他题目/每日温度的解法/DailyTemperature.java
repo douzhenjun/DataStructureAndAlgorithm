@@ -1,4 +1,4 @@
-package 每日温度的解法;
+package 其他题目.每日温度的解法;
 
 public class DailyTemperature {
     public int[] dailyTemperatures(int[] T){

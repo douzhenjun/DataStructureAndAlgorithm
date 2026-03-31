@@ -1,4 +1,4 @@
-package 每日温度的解法;
+package 其他题目.每日温度的解法;
 
 import java.util.Arrays;
 

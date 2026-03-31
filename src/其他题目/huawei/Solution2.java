@@ -1,4 +1,4 @@
-package huawei;
+package 其他题目.huawei;
 
 import java.util.HashMap;
 import java.util.HashSet;

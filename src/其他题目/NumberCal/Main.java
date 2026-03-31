@@ -1,4 +1,4 @@
-package NumberCal;
+package 其他题目.NumberCal;
 
 public class Main {
     public static void main(String[] args) {

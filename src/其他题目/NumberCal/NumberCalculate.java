@@ -1,4 +1,4 @@
-package NumberCal;
+package 其他题目.NumberCal;
 
 public class NumberCalculate {
     public static void numCal(int index, int[] arr, int times) {
