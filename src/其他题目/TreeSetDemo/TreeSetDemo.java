@@ -1,4 +1,4 @@
-package TreeSetDemo;
+package 其他题目.TreeSetDemo;
 
 import java.util.HashSet;
 import java.util.Set;

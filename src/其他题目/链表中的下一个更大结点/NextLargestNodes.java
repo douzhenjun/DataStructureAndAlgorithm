@@ -1,4 +1,4 @@
-package 链表中的下一个更大结点;
+package 其他题目.链表中的下一个更大结点;
 
 import java.util.ArrayList;
 import java.util.List;
