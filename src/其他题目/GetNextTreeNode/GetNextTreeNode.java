@@ -1,4 +1,4 @@
-package GetNextTreeNode;
+package 其他题目.GetNextTreeNode;
 
 /**
  *  问题描述:按照中序遍历的方式寻找任意一个结点的下一个结点,并通过返回这个结点的数据值以验证.

@@ -1,4 +1,4 @@
-package 正则表达式匹配;
+package 其他题目.正则表达式匹配;
 
 public class MathForReg {
     public static boolean match(String s, String p) {
@@ -64,5 +64,3 @@ public class MathForReg {
         System.out.println();
     }
 }
-
-

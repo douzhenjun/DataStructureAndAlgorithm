@@ -1,4 +1,4 @@
-package 双指针求最多水的容器;
+package 其他题目.双指针求最多水的容器;
 
 /*
 *   给你n个非负整数a1, a2, ..., an,每个数代表坐标中的一个点(i, ai).
@@ -74,4 +74,3 @@ public class MaxAreaBetweenTwoPillars {
         return maxArea;
     }
 }
-

@@ -1,4 +1,4 @@
-package java_basic_cases.generic_demo.generic_arrays;
+package java基础案例.泛型演示.泛型数组;
 
 public class ArrayOfGeneric {
     static final int SIZE = 100;

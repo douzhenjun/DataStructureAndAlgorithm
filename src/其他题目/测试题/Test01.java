@@ -1,4 +1,4 @@
-package 测试题;
+package 其他题目.测试题;
 
 import java.util.Iterator;
 import java.util.Scanner;

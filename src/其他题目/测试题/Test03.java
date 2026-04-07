@@ -1,4 +1,4 @@
-package 测试题;
+package 其他题目.测试题;
 
 import java.util.Scanner;
 
@@ -32,5 +32,3 @@ public class Test03 {
         System.out.println(x+","+y);
     }
 }
-
-

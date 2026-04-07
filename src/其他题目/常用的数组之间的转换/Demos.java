@@ -1,4 +1,4 @@
-package 常用的数组之间的转换;
+package 其他题目.常用的数组之间的转换;
 
 import org.junit.Test;
 

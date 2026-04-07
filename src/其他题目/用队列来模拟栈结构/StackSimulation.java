@@ -1,4 +1,4 @@
-package 用队列来模拟栈结构;
+package 其他题目.用队列来模拟栈结构;
 
 import java.util.LinkedList;
 

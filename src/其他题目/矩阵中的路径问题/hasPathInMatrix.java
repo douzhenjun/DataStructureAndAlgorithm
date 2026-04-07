@@ -1,4 +1,4 @@
-package 矩阵中的路径问题;
+package 其他题目.矩阵中的路径问题;
 
 public class hasPathInMatrix {
     public static boolean hasPath(char[][] matrix, int rows, int cols, String strs){

@@ -1,4 +1,4 @@
-package 青蛙跳台阶问题;
+package 其他题目.青蛙跳台阶问题;
 
 import java.util.HashMap;
 

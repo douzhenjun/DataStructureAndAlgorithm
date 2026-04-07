@@ -1,4 +1,4 @@
-package _01背包问题;
+package 其他题目._01背包问题;
 
 
 public class PackageProblem {

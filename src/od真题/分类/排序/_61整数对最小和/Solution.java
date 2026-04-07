@@ -1,4 +1,4 @@
-package od_exam.classification.sorting._61_integer_pairs_minimum_sum;
+package od真题.分类.排序._61整数对最小和;
 
 import java.util.ArrayList;
 import java.util.Collections;

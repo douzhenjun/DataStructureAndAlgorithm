@@ -1,4 +1,4 @@
-package FindLongestString;
+package 其他题目.FindLongestString;
 
 import java.util.HashMap;
 
@@ -44,4 +44,3 @@ public class FindLongestString {
         return max;
     }
 }
-

@@ -1,4 +1,4 @@
-package 逐个查找;
+package 其他题目.逐个查找;
 
 public class JudgeIfSubString {
     public boolean isSubsequence(String s, String t){

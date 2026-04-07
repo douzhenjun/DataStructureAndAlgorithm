@@ -1,4 +1,4 @@
-package 字典序排列数;
+package 其他题目.字典序排列数;
 
 import java.util.ArrayList;
 import java.util.List;

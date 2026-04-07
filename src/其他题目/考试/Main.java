@@ -1,4 +1,4 @@
-package 考试;
+package 其他题目.考试;
 
 import java.util.*;
 
